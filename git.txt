@@ -1,0 +1,5 @@
+
+1.       git checkout --orphan branchname – create a branch with no parent
+2.       git rm -rf . – remove the files and folders in local workspace
+3.       git commit --allow-empty -m "initial commit" – commit in the new branch without any changes
+4.       git push -u origin branchname – push the branch to the remote repo 
