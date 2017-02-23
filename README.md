@@ -1,2 +1,3 @@
 # Sample2
-Dummy project
+import java.io.*;
+
